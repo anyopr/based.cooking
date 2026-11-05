@@ -1,27 +1,26 @@
 ---
-title: Air Fryer Zucchini
-tags: ['zucchini', 'easy', 'quick']
+title: エアフライヤーで作るズッキーニ
+tags: ['ズッキーニ', '簡単', '時短']
 date: 2023-04-28
 author: "Ronald L"
 ---
 
-This is a quick and easy zucchini recipe for the air fryer.
+エアフライヤーで手軽に作れる、簡単なズッキーニのレシピです。
 
-- ⏲️ Prep time: 10 min
-- 🍳 Cook time: 8 min
-- 🍽️ Servings: 2
+- ⏲️ 準備時間：10分
+- 🍳 調理時間：8分
+- 🍽️ 分量：2人分
 
-## Ingredients
+## 材料
 
-- 2 zucchinis
-- Pinch of season salt
-- Olive oil
-- Garlic powder (optional)
-- Onion powder (optional)
+- ズッキーニ 2本
+- シーズニングソルト ひとつまみ
+- オリーブオイル 適量
+- ガーリックパウダー（お好みで）
+- オニオンパウダー（お好みで）
 
-## Directions
+## 作り方
 
-1. Chop the zucchinis into medium-sized squares
-2. Put zucchini into a bowl and lightly add olive oil, season salt, garlic powder (optional), and onion powder (optional)
-3. Cook in air fryer for 8 minutes at 400 F or until crispy.
-
+1. ズッキーニを食べやすい大きさの角切りにします。
+2. ボウルにズッキーニを入れ、オリーブオイル、シーズニングソルト、ガーリックパウダー（お好みで）、オニオンパウダー（お好みで）を軽くまぶします。
+3. エアフライヤーに入れ、400°F（約200°C）で8分、またはカリッとするまで加熱します。
