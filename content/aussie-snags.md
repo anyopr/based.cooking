@@ -1,33 +1,32 @@
 ---
-title: "Aussie Snags (sausage sizzle)"
+title: "オージー・スナッグ（オーストラリア風ソーセージサンド）"
 date: 2021-06-05
-tags: ['basic', 'snack', 'australian', 'pork']
+tags: ['基本', '軽食', 'オーストラリア料理', '豚肉']
 ---
 
-An Australian BBQ classic tradition that is simple and very easy to make. Great for parties and outdoor events
-especially national events. Sometimes served at hardware chains.
+オーストラリアのバーベキューで定番の、簡単に作れる料理です。パーティーや屋外イベント、特に国民的な行事にぴったりです。ホームセンターの店頭で振る舞われることもあります。
 
-- ⏲️ Prep time: 2 min
-- 🍳 Cook time: 20 min
-- 🍽️ Servings: Depends
+- ⏲️ 準備時間：2分
+- 🍳 調理時間：20分
+- 🍽️ 分量：適量
 
-## Ingredients
+## 材料
 
-- Sausages (thin)
-- Onions (4g per sausage)
-- Tomato sauce
-- Mustard (optional)
-- White sliced bread
-- Butter
-- Oil
-- Wood chips (optional, fuel for smokey flavour)
+- 細めのソーセージ
+- 玉ねぎ（ソーセージ1本につき4g）
+- トマトソース
+- マスタード（お好みで）
+- 白い食パン（スライス）
+- バター
+- 油
+- ウッドチップ（燻製の香りをつけたい場合、お好みで）
 
-## Directions
+## 作り方
 
-1. Chop up the onions into rings
-2. Bring the sausages to the grill, turning once every 5 mins
-3. Add oil of your choice to the hotplate then add the onions
-4. Use your tongs to toss the onions until they are golden brown
-5. When the onions are golden brown turn off the hotplate
-6. When the sausages are cooked, butter the bread, then the onions, and add a sausage (optionally split)
-7. Finally tomato sauce on top
+1. 玉ねぎを輪切りにします。
+2. ソーセージをグリルにのせ、5分ごとに返しながら焼きます。
+3. ホットプレートに好みの油をひき、玉ねぎを加えます。
+4. トングで玉ねぎを返しながら、きつね色になるまで炒めます。
+5. 玉ねぎがきつね色になったら、ホットプレートの火を止めます。
+6. ソーセージに火が通ったら、パンにバターを塗り、玉ねぎとソーセージをのせます。ソーセージはお好みで切り開いてください。
+7. 仕上げにトマトソースをかけます。

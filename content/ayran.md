@@ -1,23 +1,23 @@
 ---
-title: Ayran
-tags: ['drink', 'dairy', 'breakfast']
+title: "アイラン"
+tags: ['飲み物', '乳製品', '朝食']
 date: 2022-08-11
 author: "Viktor"
 ---
 
-Ayran, also known as doogh, is a yogurt-based drink popular in Eastern Europe and Central Asia. It is usually consumed as part of the breakfast during the summer.
+ドゥーグとも呼ばれるアイランは、東ヨーロッパや中央アジアで親しまれているヨーグルトベースの飲み物です。夏の朝食の一部として飲まれることが多いです。
 
-## Ingredients
+## 材料
 
-- 1 part yogurt (2 parts if you prefer a creamier variety)
-- 1 part ice-cold water
-- salt
-- mint (optional)
-- basil (optional)
+- ヨーグルト 1に対して水 1（より濃厚にしたい場合はヨーグルトを2に）
+- 冷水（氷水） ヨーグルトと同量
+- 塩
+- ミント（お好みで）
+- バジル（お好みで）
 
-## Directions
+## 作り方
 
-1. Combine the yogurt and the ice-cold water.
-2. Mix well until no clumps remain.
-3. Add salt to taste.
-4. The traditional way to drink it is plain, but you can add some additional flavours with chopped mint or basil.
+1. ヨーグルトと氷のように冷たい水を合わせます。
+2. ダマがなくなるまでよく混ぜます。
+3. 塩を加えて味を調えます。
+4. 伝統的にはそのまま飲みますが、刻んだミントやバジルを加えて風味をつけてもおいしくいただけます。

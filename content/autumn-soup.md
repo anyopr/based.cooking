@@ -1,32 +1,32 @@
 ---
-title: Autumn Soup
-tags: ['vegetables', 'soup']
+title: "秋のスープ"
+tags: ['野菜', 'スープ']
 date: 2022-08-04
 author: joel-maxuel
 ---
 
-You can cook the veggies on the stove instead of baking them, just pay more attention to avoid burning. You can also use pumpkin instead of squash.
+野菜はオーブンで焼かずに鍋で煮ても作れます。その場合は焦げないように気をつけてください。カボチャの代わりに別の種類の冬カボチャを使っても構いません。
 
-- ⏲️ Prep time: 20 min
-- 🍳 Cook time: 40 min
-- 🍽️ Servings: 4
+- ⏲️ 準備時間：20分
+- 🍳 調理時間：40分
+- 🍽️ 分量：4人分
 
-## Ingredients
+## 材料
 
-- 1 Medium Squash
-- 3 Potatoes
-- 4 Carrots
-- 1 Small Onion
-- 1 Chicken Boullion Cube
-- 1 cup Water
-- 2 cups Milk
-- Salt
-- Pepper
+- 中サイズのカボチャ 1個
+- じゃがいも 3個
+- にんじん 4本
+- 小さめの玉ねぎ 1個
+- チキンブイヨン 1個
+- 水 1カップ
+- 牛乳 2カップ
+- 塩
+- こしょう
 
-## Directions
+## 作り方
 
-1. Peel and chop squash, potatoes, carrots, and onion, add to oven-safe pot.
-2. Add boullion and enough water to avoid burning (1 cup), place pot in oven (350F) to bake until veggies are soft.
-3. If there is too much stock, don't be scared to pour some down the drain.
-4. Puree (I use electric beaters) while adding the milk.
-5. Add the salt and pepper, as desired.
+1. カボチャ、じゃがいも、にんじん、玉ねぎの皮をむいて切り、オーブン対応の鍋に入れます。
+2. ブイヨンと、焦げつき防止に十分な水（1カップ）を加えます。鍋を350°F（約175°C）に予熱したオーブンに入れ、野菜が柔らかくなるまで加熱します。
+3. 煮汁が多すぎる場合は、少し捨てても大丈夫です。
+4. 牛乳を加えながら、野菜をピューレ状にします（私は電動ミキサーを使います）。
+5. お好みで塩、こしょうを加えて味を調えます。

@@ -1,28 +1,26 @@
 ---
-title: "Assam Tea"
+title: "アッサムティー"
 date: 2021-03-21
-tags: ['drink', 'quick']
+tags: ['飲み物', '時短']
 author: chandra-kiran
 ---
 
-![Assam Tea](/pix/assam-tea.webp)
+シンプルなアッサムティーの作り方です。
 
-This is a simple Assam tea recipe.
+- ⏲️ 準備時間：1分
+- 🍳 調理時間：5分
+- 🍽️ 分量：1人分
 
-- ⏲️ Prep time: 1 min
-- 🍳 Cook time: 5 min
-- 🍽️ Servings: 1
+## 材料
 
-## Ingredients
+- アッサム茶葉 小さじ2
+- 水 150ml
+- 砂糖（お好みで）
+- 牛乳（お好みで）
 
-- 2 teaspoons of Assam Tea
-- 150 ml of fresh water
-- Sugar (Optional)
-- Milk (Optional)
+## 作り方
 
-## Directions
-
-1. Add 150 ml of water to a small pan and bring it to boil.
-2. Then add 2 teaspoons of tea into it and reduce the heat to low.
-3. Strain the tea using a tea filter into a cup.
-4. Add sugar and milk to taste.
+1. 小鍋に水150mlを入れて沸騰させます。
+2. 茶葉を小さじ2杯加え、弱火にします。
+3. 茶こしでこしながらカップに注ぎます。
+4. お好みで砂糖と牛乳を加えてください。
