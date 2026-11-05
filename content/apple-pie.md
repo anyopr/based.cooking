@@ -1,57 +1,57 @@
 ---
-title: "Apple Pie"
+title: "アップルパイ"
 date: 2021-05-13
-tags: ['dessert', 'pie', 'sweet', 'apple']
+tags: ['デザート', 'パイ', '甘いもの', 'りんご']
 author: mfed3
 ---
 
-![Apple Pie](/pix/apple-pie.webp)
+![アップルパイ](/pix/apple-pie.webp)
 
-- ⏲️ Prep time: 30 min
-- 🍳Cook time: 45 min
-- 🍽️ Servings: 8
+- ⏲️ 準備時間：30分
+- 🍳 調理時間：45分
+- 🍽️ 分量：8人分
 
-## Ingredients
+## 材料
 
-### Filling
+### フィリング
 
-- 900 g (4-5) golden delicious apples
-- 15 g (1 tbsp) lemon juice
-- 50 g white sugar
-- 65 g brown sugar
-- 5 g (1 tsp) cinnamon
-- 1-2 g nutmeg
-- 15 g cornstarch
-- 15 g ice water
-- 226 g (2 sticks) cold butter, cut into slices
+- ゴールデンデリシャスなどのりんご 900g（4〜5個）
+- レモン汁 15g（大さじ1）
+- グラニュー糖 50g
+- ブラウンシュガー 65g
+- シナモン 5g（小さじ1）
+- ナツメグ 1〜2g
+- コーンスターチ 15g
+- 氷水 15g
+- 冷たいバター 226g（約2本分）、薄切り
 
-### Crust
+### パイ生地
 
-- 350 g flour
-- 5 g salt
-- 30 g white sugar
-- 225 g butter
-- 50-100 ml ice water
+- 小麦粉 350g
+- 塩 5g
+- グラニュー糖 30g
+- バター 225g
+- 氷水 50〜100ml
 
-### Egg Wash
+### ドリュール（卵液）
 
-- 1 egg (optional)
-- 15 g water (optional)
+- 卵 1個（お好みで）
+- 水 15g（お好みで）
 
-## Directions
+## 作り方
 
-1. Peel and cut the apples into 1-2 inch strips
-2. Put the apples in a bowl and mix in the lemon juice, sugar, cinnamon, nutmeg, and cornstarch and let it sit for 15 mins to release water
-3. Transfer the filling mixture to a sauce pan and reduce the liquid over medium to low heat for around 15 mins, stirring regularly, then turn off the gas
-4. While the filling is sitting / reducing, start the crust by putting the flour, salt, sugar, and pieces of butter in a food processor
-5. Run the food processor until it resembles a coarse sand (5-10 seconds) then start dripping in the ice water until the mixture starts to chunk together
-6. You'll know when it's done if you can pinch the dough with your hand and it sticks together
-7. Preheat oven to 350°F then start making the pie crust
-8.  Cut the dough in half and roll both halves out with a rolling pin until they are big enough to cover your pie pan (around 9 inch diameter)
-9.  Put the bottom half dough into the pie pan and cut off the excess dough with a knife
-10. Dump the sauce pan full of the filling into the pie pan and even it out
-11. Cover the pie filling with the top dough and fold over and tuck in the excess crust
-12. Use a fork or your fingers to pinch down the top crust to the bottom crust so you don't have air gaps
-13. Optionally you can now brush on the egg wash to make the crust get a shiny golden brown color when it cooks
-14. Cut a few slits in the top crust with a knife to give it a nice design and allow for air to release
-15. Bake 45 minutes at 350°F or until the crust is brown to your liking and the apples are bubbling inside
+1. りんごの皮をむき、幅2.5〜5cmほどの細長い形に切ります。
+2. ボウルにりんごを入れ、レモン汁、砂糖、シナモン、ナツメグ、コーンスターチを混ぜ、りんごから水分が出るまで15分ほど置きます。
+3. フィリングを鍋に移し、中弱火で約15分、時々混ぜながら水分を煮詰めます。煮詰まったら火を止めます。
+4. フィリングを置いている間にパイ生地を作ります。フードプロセッサーに小麦粉、塩、砂糖、バターを入れます。
+5. 粗い砂のような状態になるまで5〜10秒ほど回し、氷水を少しずつ加えて、生地がまとまり始めるまで混ぜます。
+6. 生地を指でつまんで、まとまればできあがりです。
+7. オーブンを350°F（約175°C）に予熱し、パイ生地を成形します。
+8. 生地を半分に分け、それぞれを麺棒で伸ばします。直径約23cmのパイ皿を覆える大きさにします。
+9. 生地の半分をパイ皿に敷き、はみ出した部分をナイフで切り落とします。
+10. 鍋のフィリングをパイ皿に移し、全体に広げます。
+11. 残りの生地をかぶせ、縁を折り込んで余分な生地を整えます。
+12. 空気が入らないよう、フォークまたは指で上側の生地と下側の生地の縁を押さえて閉じます。
+13. お好みで表面に卵液を塗ると、焼き上がりがつやのあるきつね色になります。
+14. 表面にナイフで数か所切り込みを入れ、飾りをつけるとともに蒸気の逃げ道を作ります。
+15. 350°F（約175°C）で45分、または生地が好みの焼き色になり、中のりんごが煮立つまで焼きます。
