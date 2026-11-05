@@ -1,39 +1,39 @@
 ---
-title: "Älplermagronen (Alpine macaroni)"
+title: "Älplermagronen（アルプス風マカロニ）"
 date: 2021-03-11
-tags: ['swiss', 'pork', 'potato', 'pasta']
+tags: ['スイス料理', '豚肉', 'じゃがいも', 'パスタ']
 author: alexander-bocken
 ---
 
 ![Älplermagronen](/pix/aelplermagronen.webp)
 
-A swiss favorite, _Älplermagronen_ combines pretty much everything you have at your disposal in your alpine chalet.
-It's the definition of comfort food for the Swiss.
+スイスで親しまれている料理、Älplermagronen（アルプラーマグローネン）は、アルプスの山小屋で手に入る食材をたっぷり組み合わせた一品です。
+スイスの人々にとって、まさに心温まる家庭料理です。
 
-- 🍳 Cook time: ~30 minutes
-- 🍽️  Servings: 4
+- 🍳 調理時間：約30分
+- 🍽️ 分量：4人分
 
-## Ingredients
+## 材料
 
-- ~150g (1/3 lb) bacon cubes
-- 3 onions (medium size)
-- 400g (15 oz) potatoes (firm/waxy)
-- 1 - 2L (1/4 - 1/2 gal) milk
-- 400g (15 oz) macaroni (dry weight)
-- ~150g (1/3 lb) medium soft cheese. Appenzeller works best. Gruyère would be my go-to alternative.
-- a jar of apple sauce
+- ベーコン（角切り）約150g
+- 玉ねぎ 3個（中サイズ）
+- じゃがいも 400g（煮崩れしにくいもの）
+- 牛乳 1〜2L
+- マカロニ 400g（乾燥状態の重さ）
+- セミハードチーズ 約150g。アッペンツェラーが最適です。代わりにグリュイエールもおすすめです。
+- りんごソース 1瓶
 
-Feel free to vary these amounts, it's not like this is anything strict.
+分量は目安ですので、お好みに合わせて調整してください。
 
-## Directions
+## 作り方
 
-1. Fry bacon cubes in pot (this pot will be used for everything so choose an appropriately large one).
-2. Cut onions into half-rings and let them sweat in the same pot. Add some butter if your bacon was not fatty enough.
-3. Peel potatoes and cut them into ~1 cm/half inch cubes.
-4. When the onions have become sufficiently cooked, add potatoes.
-5. Top everything with milk and let the potatoes cook for about 10 minutes.
-7. Add macaroni and the remaining milk to cover everything. Most of the milk will be absorbed by the macaroni.
-8. Shred your cheese.
-9. A minute or two before the macaroni are done, add the shredded cheese into the pot. It should appear a bit too runny in the pot. While cooling it will increase in viscosity quite a bit. If the final texture is not creamy enough, it is most likely due to using the wrong cheese.
-10. Season to taste. (Needs quite a bit of salt). Nutmeg also works well here.
-11. Serve with apple sauce. Should be eaten together, not as a dessert.
+1. 鍋でベーコンを炒めます（この鍋で最後まで調理するので、十分な大きさのものを選びましょう）。
+2. 玉ねぎを半月切りにして同じ鍋に加え、しんなりするまで炒めます。ベーコンの脂が少ない場合は、バターを少量加えます。
+3. じゃがいもの皮をむき、約1cm角に切ります。
+4. 玉ねぎに火が通ったら、じゃがいもを加えます。
+5. 全体がかぶるくらい牛乳を注ぎ、じゃがいもを約10分煮ます。
+6. マカロニと残りの牛乳を加え、材料がかぶるようにします。牛乳の大部分はマカロニに吸収されます。
+7. チーズをすりおろします。
+8. マカロニが茹で上がる1〜2分前に、すりおろしたチーズを鍋に加えます。鍋の中では少し水っぽく見えるくらいで大丈夫です。冷めるにつれてかなり濃度が増します。仕上がりが十分クリーミーでない場合は、チーズの種類が合っていない可能性が高いです。
+9. 塩で味を調えます（塩は多めに必要です）。ナツメグもよく合います。
+10. りんごソースを添えてください。デザートとしてではなく、料理と一緒に食べます。
