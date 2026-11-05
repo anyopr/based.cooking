@@ -1,36 +1,36 @@
 ---
-title: "Almeirim Stone Soup"
+title: "アルメイリン風石のスープ"
 date: 2021-03-10
-tags: ['portuguese', 'soup', 'pork']
+tags: ['ポルトガル料理', 'スープ', '豚肉']
 author: artur-mancha
 ---
 
- It is truly emblematic of Portuguese cuisine, as it uses all of the ingredients available in order to waste no food.
+手に入る食材を余すことなく使うこの料理は、ポルトガル料理を象徴する一品です。
 
-## Ingredients
+## 材料
 
-- well-washed stone
-- kidney beans or fresh
-- pig's ear (blanched and sliced thin)
-- chouriço negro or firm type of blood sausage
-- mixed meat chouriço or mediterranean smoked sausage
-- pork belly, fatback or bacon
-- potatoes, cubed
-- onions, chopped
-- garlic cloves
-- bay leaf
-- cilantro/coriander, chopped
+- よく洗った石 1個
+- キドニービーンズ（または生の豆）
+- 豚の耳（下茹でして薄切り）
+- チョリソ・ネグロ、または硬めのブラッドソーセージ
+- ミックスミートのチョリソ、または地中海風の燻製ソーセージ
+- 豚バラ肉、背脂、またはベーコン
+- じゃがいも（角切り）
+- 玉ねぎ（みじん切り）
+- ニンニク
+- ローリエ
+- コリアンダー（刻む）
 
-## Directions
+## 作り方
 
-1. In a saucepan, boil the kidney beans with the pig's ear, sausages, pork belly, onions, garlic and bay leaf in some water and add a well-washed stone. Season with the olive oil and salt and pepper to taste.
-2. If necessary, add more water while it’s boiling.
-3. Once the meat is cooked, take it out and reserve, then add the diced potatoes and cilantro to the pot.
-4. Let the potatoes cook on medium to high heat for about 30-35 minutes.
-5. Once the potatoes are well cooked, you can remove the pot from the heat, add the previously chopped meat back in and stir it well.
-6. Pour into bowls and serve.
+1. 鍋にキドニービーンズ、豚の耳、ソーセージ、豚バラ肉、玉ねぎ、ニンニク、ローリエと水を入れて煮ます。よく洗った石も加えます。オリーブオイル、塩、こしょうで味を調えます。
+2. 煮ている途中で必要に応じて水を足します。
+3. 肉に火が通ったら取り出しておきます。鍋に角切りのじゃがいもとコリアンダーを加えます。
+4. 中火から強火で、じゃがいもを約30〜35分煮ます。
+5. じゃがいもに十分火が通ったら鍋を火から下ろし、取り置いた肉を刻んで戻し入れ、よく混ぜます。
+6. 器に盛り付けて完成です。
 
-## Story
+## 由来
 
-> A poor friar who was on a pilgrimage stopped in the village of Almeirim and knocked on the door of a house. He was too proud to beg for a bite to eat, so instead, he requested a large pot in which he could make “a delicious and filling…….stone soup”. With arched eyebrows and curious glances, the family invited him into their home and set up a large pot over flickering flames and filled with water. Slowly walking up to the ironclad cauldron, the friar reached into his deep pocket to produce a smooth and well-cleaned stone that he promptly dropped into the boiling water. A little while later he tasted the soup and said that it needed a touch of seasoning. So the wife brought him some salt to add, to which he suggested that maybe a little bit of chouriço (sausage), or pork belly, would be better. Graciously, she obliged and dropped several thick slices into the pot. Then, the friar asked if she might not have a little something to enrich the soup, such as potatoes or beans from a previous meal. With a broad smile, she agreed, and added a healthy portion into the bubbling water. This banter continued back and forth between the family and the friar before he finally announced that he had indeed made a very delicious and filling soup. When the soup was done, the friar fished the stone out of the pot, washed and dried it off, and plopped it back in his pocket for the next time.
-> - According to the people of Almeirim
+> 巡礼の旅をしていた貧しい修道士が、アルメイリンの村に立ち寄り、ある家の戸を叩きました。食べ物を恵んでほしいと頼むには誇りが高すぎたため、代わりに「おいしくて腹持ちのよい石のスープ」を作るための大きな鍋を貸してほしいと頼みました。眉をつり上げ、興味津々の家族は修道士を家に招き、火の上に大きな鍋を置いて水を張りました。修道士は鉄の大釜に近づくと、懐から、きれいに洗った滑らかな石を取り出し、沸騰した湯にさっと入れました。しばらくしてスープを味見し、「もう少し味付けが必要ですね」と言いました。家の人は塩を持ってきましたが、修道士は「チョリソ（ソーセージ）か豚バラ肉を少し入れると、もっとおいしくなりそうです」と提案しました。親切な家の人は、厚切り肉を何枚か鍋に入れました。修道士はさらに、じゃがいもや前日の食事で残った豆など、スープに加えられるものはないかと尋ねました。家の人は笑顔で同意し、たっぷりと鍋に加えました。家族と修道士のやりとりは続き、ついに修道士は、とてもおいしくて腹持ちのよいスープができたと宣言しました。スープが煮上がると、修道士は鍋から石を取り出し、洗って乾かし、次の機会に備えて懐にしまいました。
+> - アルメイリンの人々による言い伝え
