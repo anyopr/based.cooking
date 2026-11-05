@@ -1,34 +1,34 @@
 ---
-title: "Aljotta"
+title: "アリョッタ（マルタ風魚のスープ）"
 date: 2021-03-16
-tags: ['fish', 'soup', 'mediterranean']
+tags: ['魚', 'スープ', '地中海料理']
 author: shou-ganai
 ---
 
-Aljotta ("jo" as in "Yo!") is a traditional Maltese light fish soup with roots in french bouillabaisse and similarly refers to the method of serving the fish that are cooked in it. The most appropriate fish to use for both the stock and the accompanying meal are 'clean' white fish that don't turn the broth cloudy, ideally stargazers, monkfish, red gurnard, and moray eels but also hake, mullets, cod and haddock. There are a some variants; restaurant versions could very well include lemon juice and shellfish which I don't associate with aljotta. Rice eventually became a staple with it and how much you put in is up to you. I recommend just a little. In fact, there are no ingredient amounts; the picture should give you an idea of the density you're going for. **Fresh herbs are a must**.
+アリョッタ（Aljotta）は、フランスのブイヤベースに由来する、マルタの伝統的なあっさりした魚のスープです。名前は、スープで煮た魚を取り分けて提供する習慣にも関係しています。
 
-## Ingredients
+## 材料
 
-- Fish stock (see 2.)
-- Fish, raw
-- Onion, roughly chopped
-- Garlic, sliced or diced
-- Tomatos, chopped
-- frying oil/lard
-- Extra virgin olive oil
-- Marjoram
-- Black pepper (optional)
-- Mint, small amount (optional, I never use it myself as it's too overpowering)
-- Lemon wedge/juice (optional, also overpowering)
-- Rice (optional)
+- 魚のだし（手順2を参照）
+- 生魚
+- 玉ねぎ（粗みじん切り）
+- ニンニク（薄切りまたはみじん切り）
+- トマト（刻む）
+- 炒め油またはラード
+- エクストラバージンオリーブオイル
+- マジョラム
+- 黒こしょう（お好みで）
+- ミント 少量（お好みで。風味が強すぎるため、私は使いません）
+- レモン（くし切りまたは果汁、お好みで。風味が強く出ます）
+- 米（お好みで）
 
-## Directions
+## 作り方
 
-1. Cook some rice and set aside. White short-grain is best but other types will do as long as it's not starchy. Don't use arborio or sushi rice.
-2. Prepare the stock, possibly the day before, by boiling fish and fish bones in a tall stock pot on medium heat for 1-2 hours. It's customary to have loose chunks of fish in the soup so you can boil the fish and separate the meat as it starts to cook. As an example, the head, tail, skin and spine from the [anglerfish fillet recipe](/fried-anglerfish-fillet) were used to make stock, then half a fillet and meat that separated from the offal became part of the soup.
-3. In a pot, heat some oil on low heat and add in the onions. Saute until translucent.
-4. Add the garlic, tomato, herbs and salt if desired. Switch to medium heat, stirring occasionally until the water starts to boil.
-5. Add the fish and let simmer on low heat until the fish are cooked thoroughly, being careful not to break them. Turn the heat off and add the olive oil.
-6. Take the fish out to be served separately. They are traditionally served topped with olive oil and a squeeze of lemon with steamed vegetables.
-7. If you are using lemon juice or rice, add them to each serving according to your preference.
-8. Leave some for tomorrow. It always tastes better the next day.
+1. 米を炊いて取り置きます。白米の短粒種が最適ですが、でんぷん質が強すぎなければほかの種類でも構いません。アルボリオ米や寿司用の米は使わないでください。
+2. だしを準備します。前日に作っても構いません。背の高い鍋に魚と魚の骨を入れ、中火で1〜2時間煮ます。スープには魚の身をほぐした塊を入れるのが一般的です。
+3. 鍋に油を入れて弱火で熱し、玉ねぎを加えます。透き通るまで炒めます。
+4. ニンニク、トマト、ハーブを加え、お好みで塩を振ります。中火にし、水分が煮立つまで時々混ぜます。
+5. 魚を加え、身を崩さないよう注意しながら、弱火で中まで火が通るまで煮ます。火を止めてオリーブオイルを加えます。
+6. 魚を取り出し、別皿で提供します。伝統的にはオリーブオイルをかけ、レモンを絞り、蒸し野菜を添えて食べます。
+7. レモン汁や米を使う場合は、お好みに合わせて各皿に加えます。
+8. 翌日分も残しておきましょう。次の日にはさらにおいしくなります。
