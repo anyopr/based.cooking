@@ -1,29 +1,29 @@
 ---
-title: "Spaghetti aglio e olio"
+title: "スパゲッティ・アーリオ・エ・オーリオ"
 date: 2021-03-21
-tags: ['italian', 'pasta']
+tags: ['イタリア料理', 'パスタ']
 author: robert5800
 ---
 
-Aglio e olio, pasta with garlic and olive oil, is one of the simplest yet greatest pasta dishes of all time. It's quick, easy, and uses a lot of basic pantry ingredients which makes this a convenient weeknight meal.
+アーリオ・エ・オーリオは、ニンニクとオリーブオイルで作るパスタで、最もシンプルでありながら最高においしいパスタ料理のひとつです。手早く簡単に作れ、基本的な常備食材を使うため、忙しい平日の食事にもぴったりです。
 
-- 🍳 Cook time: 15 min
-- 🍽️ Servings: 4
+- 🍳 調理時間：15分
+- 🍽️ 分量：4人分
 
-## Ingredients
+## 材料
 
-- 1 pound (500g) spaghetti (or similarly shaped pasta)
-- 1/2 cup (110g) extra virgin olive oil
-- 5-6 cloves of garlic
-- 1/4 tsp red pepper flakes
-- A bunch of fresh parsley
+- スパゲッティ（または同じような形のパスタ）500g
+- エクストラバージンオリーブオイル 1/2カップ（110g）
+- ニンニク 5〜6片
+- 赤唐辛子フレーク 小さじ1/4
+- 生パセリ ひと束
 
-## Directions
+## 作り方
 
-1. Heat a large skillet on medium-high heat, start [cooking the pasta](/pasta).
-2. Finely slice or mince the garlic and finely chop the parsley.
-3. Add the oil and garlic to the skillet and gently cook it until it's lightly golden brown.
-4. Add the red pepper flakes to the skillet and turn down the heat to let its flavor infuse the oil.
-5. When the pasta has finished cooking, drain it, and reserve at least around a cup of the cooking water.
-6. Now add the drained pasta with some of the cooking water to the skillet and toss vigorously. The starch in the pasta water will help the sauce emulsify and get it to the right consistency.
-7. At the very last second add the parsley, to preserve its freshness. Adjust the seasoning to taste if necessary.
+1. 大きめのフライパンを中強火で熱し、[パスタを茹で始めます](/pasta)。
+2. ニンニクを薄切りまたはみじん切りにし、パセリも細かく刻みます。
+3. フライパンにオリーブオイルとニンニクを入れ、薄くきつね色になるまで弱めの火加減でじっくり加熱します。
+4. 赤唐辛子フレークを加え、火を弱めて辛みと風味をオイルに移します。
+5. パスタが茹で上がったら湯を切ります。茹で汁を少なくともカップ1杯ほど取っておきます。
+6. 湯を切ったパスタと茹で汁を少量フライパンに加え、勢いよく混ぜます。茹で汁に含まれるでんぷんでソースが乳化し、ちょうどよい濃度になります。
+7. パセリの鮮やかな風味を保つため、仕上げに加えます。必要に応じて塩などで味を調えてください。
